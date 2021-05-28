@@ -1,0 +1,40 @@
+#main-head{
+    height: calc(100vh - 54px);
+    background-image: url("/thumb16.jpg");
+    
+    background-position: centre;
+    background-size: cover;
+    background-repeat: no-repeat; 
+}
+.navbar{
+    position: -webkit-sticky;
+}
+.navbar-brand{
+    font-size: 3rem !important;
+    font-family: 'Courier New', Courier, monospace;
+}
+.nav-item{
+    font-family: 'Courier New', Courier, monospace;
+}
+.page-section{
+    padding: 4rem 0;
+}
+.section-heading{
+    font: bold;
+    
+
+}
+.section-subheading{
+    text-align: centre;
+}
+.row div{
+    padding-top: 60px;
+}
+
+.img-sec{
+    height: 280px;
+}
+.row ul{
+    list-style-type: none;
+    justify-content: space-evenly;
+}
